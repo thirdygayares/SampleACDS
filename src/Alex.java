@@ -8,7 +8,6 @@ public class Alex {
 		System.out.println("Hello Alex!");
 		
 		
-
 	}
 	
 	
