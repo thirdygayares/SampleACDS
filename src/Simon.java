@@ -9,6 +9,10 @@ public class Simon {
 		System.out.println("Hello T_T");
 		
 		
+		// second commit
+		System.out.println("Hi T_T");
+		
+		
 
 	}
 
