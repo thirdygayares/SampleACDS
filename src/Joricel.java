@@ -7,6 +7,9 @@ public class Joricel {
 		
 		//another commit
 		System.out.println("and hello everyone");
+		
+		//for fetch and pull
+		System.out.println("thank you");
 	}
 
 }
